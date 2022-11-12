@@ -12,8 +12,7 @@
             <version>6.8.1</version>
             <scope>test</scope>
         </dependency>
-    </dependencies>
-    
+    </dependencies>    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>18</maven.compiler.source>
